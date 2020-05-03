@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import './index.css';
-import Home from './components/HomeComponent/Home';
+import Home from './pages/HomePage/Home';
 import * as serviceWorker from './serviceWorker';
 
 const App = () => {
